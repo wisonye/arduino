@@ -26,3 +26,14 @@ Otherwise, you won't see the board serial port when u connected to the hardware.
 2. [Ultrasonic distance measurement demo](ultrasonic-display-in-LCD/ultrasonic-display-in-LCD.ino)
 
     ![Distance measurement demo](preview-videos/distance-measurement.gif)
+    ![Distance measurement demo](preview-videos/distance-measurement-2.gif)
+
+3. [Servo motor button triggered railing demo](servo-moto-control/servo-moto-control.ino)
+
+    ![Servo motor button triggered railing demo](preview-videos/servo-motor-button-triggered-railing-demo.gif)
+
+4. [IR remote control guessing game](remote-control-guess-game/remote-control-guess-game.ino)
+
+    ![IR remote control guessing game](preview-videos/IR-control-guess-game.gif)
+
+
