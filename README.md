@@ -19,8 +19,10 @@ Otherwise, you won't see the board serial port when u connected to the hardware.
 
 ## Demo videos
 
-1. Bit shift LED demo
+1. [74HC595IC Bit shift LED demo](74HC595IC-control-LEDs/74HC595IC-control-LEDs.ino)
 
     ![Bit shift LED demo](preview-videos/bit-shift-led.gif)
 
+2. [Ultrasonic distance measurement demo](ultrasonic-display-in-LCD/ultrasonic-display-in-LCD.ino)
 
+    ![Distance measurement demo](preview-videos/distance-measurement.gif)
