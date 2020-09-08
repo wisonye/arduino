@@ -19,6 +19,8 @@ Otherwise, you won't see the board serial port when u connected to the hardware.
 
 ## Demo videos
 
-1. [![Bit shift LED demo](preview-videos/bit-shift-led-screenshot.png)](preview-videos/bit-shift-led.mp4)
+1. Bit shift LED demo
+
+    ![Bit shift LED demo](preview-videos/bit-shift-led.gif)
 
 
